@@ -9,7 +9,7 @@ void pypart2(int n)
     int i, j, k = n;
 
     // Outer loop to handle number of rows
-    // n in this case
+    // n in this case.
     for (i = 1; i <= n; i++) {
 
         // Inner loop for columns
