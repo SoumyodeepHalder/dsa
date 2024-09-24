@@ -1,4 +1,5 @@
 // C++ code to demonstrate star pattern
+// this line was written on github to puss locally
 #include <iostream>
 using namespace std;
 
