@@ -1,4 +1,5 @@
 // C++ code to demonstrate star pattern
+//this line was written locally to push in github
 #include <iostream>
 using namespace std;
 
