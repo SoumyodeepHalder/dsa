@@ -31,6 +31,7 @@ string longestsubstring (string s){
 
 int main(){
     string s="abcabcbb";
+    // string s= "pwwkew";
     string result=longestsubstring (s);
     cout<<result<<"\n";
 }
